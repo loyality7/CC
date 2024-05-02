@@ -1,12 +1,12 @@
 
 # Domains Covered
 
-- [D1 - Security Principles](/isc2-cc-notes/d1---security-principles/)
+- [D1 - Security Principles](./D1%20-%20Security%20Principles/)
   
-- [D2 - Incident Response, Business Continuity and Disaster Recovery Concepts](/isc2-cc-notes/d2---incident-response-business-continuity-and-disaster-recovery-concepts/)
+- [D2 - Incident Response, Business Continuity and Disaster Recovery Concepts](./D2%20-%20Incident%20Response,%20Business%20Continuity%20and%20Disaster%20Recovery%20Concepts/)
   
-- [D3 - Access Control Concepts](/isc2-cc-notes/d3---access-control-concepts/)
+- [D3 - Access Control Concepts](./D3%20-%20Access%20Control%20Concepts/)
   
-- [D4 - Network Security](/isc2-cc-notes/d4---network-security/)
+- [D4 - Network Security](./D4%20-%20Network%20Security/)
   
-- [D5 - Security Operations](/isc2-cc-notes/d5---security-operations/)
+- [D5 - Security Operations](./D5%20-%20Security%20Operations/)
